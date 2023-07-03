@@ -13,17 +13,31 @@
 
 // Object :
 
-const person = {
-  name: "Ali",
-  age: 32,
-  gender: "Female",
-  address: {
-    country: "Afghanistan",
-    city: "Kabul",
-  },
-  hobbies: ["Learning", "Coding", "watching movies"],
-};
+// const person = {
+//   name: "Ali",
+//   age: 32,
+//   gender: "Female",
+//   address: {
+//     country: "Afghanistan",
+//     city: "Kabul",
+//   },
+//   hobbies: ["Learning", "Coding", "watching movies"],
+// };
 
-person.email = "ali@gmail.com";
-console.log(person.address.city);
-console.log(person);
+// person.email = "ali@gmail.com";
+// console.log(person.address.city);
+// console.log(person);
+
+// function
+
+// function sayhello(name) {
+//   console.log("hello my name is " + name);
+// }
+
+// sayhello("karim");
+
+// function square(number) {
+//   return number * number;
+// }
+
+// console.log(square(2));
