@@ -42,9 +42,18 @@
 
 // console.log(square(2));
 
-let num1 = 3;
-let num2 = 4;
+// let num1 = 3;
+// let num2 = 4;
 
-result = num1 + num2;
+// result = num1 + num2;
+
+// console.log(result);
+
+let firstName = "Ali";
+let lastName = "karimi";
+let age = 20;
+let job = "Web developer";
+
+result = `Hello my name is ${firstName} ${lastName} and ${age} years old and i work as a ${job}`;
 
 console.log(result);
