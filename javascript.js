@@ -41,3 +41,10 @@
 // }
 
 // console.log(square(2));
+
+let num1 = 3;
+let num2 = 4;
+
+result = num1 + num2;
+
+console.log(result);
